@@ -6,4 +6,4 @@ Unzip occurrence.txt from the downloaded zip and select for processing.
 
 Paste the full citation from GBIF download page or from the email notification. It will be displayed in the footer.
 
-Animation of weekly relative abundance can be seen on the map. 
+Animation of weekly relative abundance can be seen on the map as well as the video can be downloaded.
